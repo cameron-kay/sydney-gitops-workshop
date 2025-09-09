@@ -50,4 +50,4 @@ team_settings:
        - 54
 software:
   packages:
-    - path: ../lib/windows/software/cloudflare-wrap.yml
+    - path: ../lib/windows/software/cloudflare-warp.yml

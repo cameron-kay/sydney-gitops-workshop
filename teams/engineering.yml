@@ -49,3 +49,5 @@ team_settings:
        - 46
        - 54
 software:
+  packages:
+    - path: ../lib/windows/software/cloudflare-wrap.yml
